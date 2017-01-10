@@ -1,0 +1,7 @@
+#Tue Jan 10 17:51:58 IST 2017
+base.0=C\:\\Users\\Nirav Kora\\Desktop\\GetContactsTwo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f8604fa108dda3b82f934198b5d480033106abcd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Nirav Kora\\Desktop\\GetContactsTwo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1183959c487e5da93bd4480c7515957654210433\\classes.dex
+base.1=C\:\\Users\\Nirav Kora\\Desktop\\GetContactsTwo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1183959c487e5da93bd4480c7515957654210433
+file.0=C\:\\Users\\Nirav Kora\\Desktop\\GetContactsTwo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f8604fa108dda3b82f934198b5d480033106abcd\\classes.dex

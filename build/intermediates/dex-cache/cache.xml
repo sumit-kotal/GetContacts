@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nirav Kora\Desktop\GetContactsTwo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="be4a4be1262aa5e03ea7b4a559f8fc358e064914">
+        <dex dex="C:\Users\Nirav Kora\Desktop\GetContactsTwo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f8604fa108dda3b82f934198b5d480033106abcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nirav Kora\Desktop\GetContactsTwo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="24fdd9dcd683d689ac89b4d7cc335be163a4db66">
+        <dex dex="C:\Users\Nirav Kora\Desktop\GetContactsTwo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1183959c487e5da93bd4480c7515957654210433\classes.dex" />
+    </item>
+
+</items>
